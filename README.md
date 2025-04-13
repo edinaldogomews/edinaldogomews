@@ -4,7 +4,7 @@
 ---
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Edinaldo Gomes
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Eu sou Edinaldo Gomes
  👩🏻‍💻 Sou um desenvolvedor, criativo e apaixonado por tecnologia.<br>
  ⚡ Formado em Ciência da Computação na Faculdade de Boa Viagem<br>
 </div>
